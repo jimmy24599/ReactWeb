@@ -83,8 +83,8 @@ export default function FieldsTesterPage() {
 
   // Required by backend odooClient.resolveUrl() used in odooFieldsGet
   const getOdooHeaders = (): Record<string, string> => {
-    const rawBase = (localStorage.getItem('odoo_base_url') || '').replace(/\/$/, '')
-    const db = localStorage.getItem('odoo_db') || ''
+    const rawBase = "https://egy.thetalenter.net"
+    const db = "odoodb1"
     const headers: Record<string, string> = {}
     if (rawBase) headers['x-odoo-base'] = rawBase
     if (db) headers['x-odoo-db'] = db
