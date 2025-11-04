@@ -24,9 +24,9 @@ export default function SetupPage() {
       
       // Prefill from local storage if present
       try {
-        const lsBase = localStorage.getItem('odoo_base_url') || ''
-        const lsCompany = localStorage.getItem('odoo_company') || ''
-        const lsDb = localStorage.getItem('odoo_db') || ''
+        const lsBase = "https://egy.thetalenter.net"
+        const lsCompany = "Swedish Tech"
+        const lsDb = "odoodb1"
         if (lsBase) setBaseUrl(lsBase)
         if (lsCompany) setCompanyName(lsCompany)
         if (lsDb) setDbName(lsDb)
