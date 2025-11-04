@@ -5,7 +5,7 @@ export const API_CONFIG = {
   OPENROUTER_BASE_URL: 'https://openrouter.ai/api/v1',
   
   // Google Maps API for locations
-  GOOGLE_MAPS_API_KEY: import.meta.env.VITE_GOOGLE_MAPS_API_KEY,
+  GOOGLE_MAPS_API_KEY: import.meta.env.VITE_GGG_API_KEY,
   
   // Backend API
   BACKEND_BASE_URL: import.meta.env.VITE_API_BASE_URL,
