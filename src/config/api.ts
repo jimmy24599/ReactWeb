@@ -1,7 +1,7 @@
 // API Configuration
 export const API_CONFIG = {
   // OpenRouter API for chatbot
-  OPENROUTER_API_KEY: import.meta.env.VITE_OPENROUTER_API_KEY,
+  OPENROUTER_API_KEY: import.meta.env.VITE_AAA_API_KEY,
   OPENROUTER_BASE_URL: 'https://openrouter.ai/api/v1',
   
   // Google Maps API for locations
