@@ -1,0 +1,782 @@
+{
+  "Search": "بحث",
+  "Navigation": "التنقل",
+  "Settings": "الإعدادات",
+  "Sign Out": "تسجيل الخروج",
+  "Loading...": "جاري التحميل...",
+  "My Workspace": "مساحة عملي",
+  "Swedish Tech": "سويديش تك",
+  "Overview": "نظرة عامة",
+  "Warehouse View": "عرض المخزن",
+  "Operations": "العمليات",
+  "Transfers": "تحويلات",
+  "Receipts": "استلامات",
+  "Deliveries": "تسليمات",
+  "Internal": "داخلية",
+  "Manufacturing": "تصنيع",
+  "Dropships": "شحن مباشر",
+  "Jobs": "مهام",
+  "Batch transfers": "تحويلات دفعية",
+  "Wave transfers": "تحويلات موجية",
+  "Adjustments": "تسويات",
+  "Physical Inventory": "الجرد الفعلي",
+  "Scrap": "متلف",
+  "Landing costs": "تكاليف الشحن",
+  "Procurement": "المشتريات",
+  "Replenishment": "إعادة تزويد",
+  "Products": "المنتجات",
+  "Product Variants": "متغيرات المنتجات",
+  "Lots/Serial Numbers": "دفعات/أرقام تسلسلية",
+  "Packages": "الطرود",
+  "Reporting": "التقارير",
+  "Stocks": "المخزون",
+  "Locations": "المواقع",
+  "Moves History": "سجل الحركات",
+  "Move Analysis": "تحليل الحركات",
+  "Valuation": "التقييم",
+  "Configuration": "التهيئة",
+  "Warehouse Management": "إدارة المستودعات",
+  "Warehouses": "المستودعات",
+  "Operation types": "أنواع العمليات",
+  "Routes": "المسارات",
+  "Rules": "القواعد",
+  "Storage categories": "فئات التخزين",
+  "Putaway Rules": "قواعد الإيداع",
+  "Product categories": "فئات المنتجات",
+  "Product Packagings": "تغليفات المنتجات",
+  "Attributes": "السمات",
+  "Units of Measure": "وحدات القياس",
+  "UoM Categories": "فئات وحدات القياس",
+  "Delivery": "التوصيل",
+  "Delivery Methods": "طرق التوصيل",
+  "Package types": "أنواع الطرود",
+  "Search Something here...": "ابحث هنا...",
+  "Warehouse Inventory Dashboard": "لوحة مخزون المستودع",
+  "Real-time overview of your warehouse operations and inventory": "نظرة فورية على عمليات المستودع والمخزون",
+  "This Month": "هذا الشهر",
+  "This Week": "هذا الأسبوع",
+  "This Quarter": "هذا الربع",
+  "Export": "تصدير",
+  "Total Orders": "إجمالي الطلبات",
+  "+2% from last quarter": "+2% عن الربع الماضي",
+  "Pending Orders": "الطلبات قيد الانتظار",
+  "-7.12% vs last month": "-7.12% مقارنة بالشهر الماضي",
+  "Cancelled Orders": "الطلبات الملغاة",
+  "Returned Items": "العناصر المُرتجعة",
+  "-4.20% vs last month": "-4.20% مقارنة بالشهر الماضي",
+  "Revenue Performance": "أداء الإيرادات",
+  "Income": "الدخل",
+  "Expend": "المصروف",
+  "Monthly": "شهري",
+  "Daily": "يومي",
+  "Weekly": "أسبوعي",
+  "Warehouse Capacity": "سعة المستودع",
+  "Used": "المستخدم",
+  "Available": "المتاح",
+  "Inventory Distribution": "توزيع المخزون",
+  "Order Fulfillment Rate": "معدل تنفيذ الطلبات",
+  "Previous": "السابق",
+  "Forecast": "متوقّع",
+  "Current": "الحالي",
+  "Recent Activities": "الأنشطة الحديثة",
+  "Find inventory, orders or reports": "ابحث عن مخزون أو طلبات أو تقارير",
+  "Warehouses ({{count}})": "المستودعات ({{count}})",
+  "Sort by": "ترتيب حسب",
+  "Filter by (4)": "تصفية (4)",
+  "Low Stock Alerts": "تنبيهات انخفاض المخزون",
+  "SKU:": "رمز المخزون:",
+  "units": "وحدة",
+  "Top Inventory Items": "أفضل عناصر المخزون",
+  "See all": "عرض الكل",
+  "Supplier Info": "معلومات المورّد",
+  "Filter": "تصفية",
+  "Supplier Name": "اسم المورّد",
+  "Next Shipment": "الشحنة القادمة",
+  "Contact": "التواصل",
+  "Rating": "التقييم",
+  "Shipping Status": "حالة الشحن",
+  "Delivered": "تم التسليم",
+  "Orders completed today": "الطلبات المُكتملة اليوم",
+  "In Transit": "قيد الشحن",
+  "Orders on the way": "طلبات في الطريق",
+  "Pending": "معلّق",
+  "Awaiting shipment": "بانتظار الشحن",
+
+  "Stock Received": "تم استلام المخزون",
+  "Order Shipped": "تم شحن الطلب",
+  "Stock Adjusted": "تمت تسوية المخزون",
+  "Return Processed": "تمت معالجة الإرجاع",
+
+  "2 hours ago": "قبل ساعتين",
+  "3 hours ago": "قبل 3 ساعات",
+  "5 hours ago": "قبل 5 ساعات",
+  "6 hours ago": "قبل 6 ساعات",
+  "Transfer Receipts": "استلامات التحويل",
+  "Manage incoming transfers and receipts": "إدارة التحويلات الواردة والاستلامات",
+  "New Receipt": "استلام جديد",
+  "Total Receipts": "إجمالي الاستلامات",
+  "Draft Receipts": "استلامات مسودة",
+  "Scheduled Today": "مجدولة اليوم",
+  "Completed": "مكتملة",
+  "Search receipts...": "ابحث في الاستلامات...",
+  "Status": "الحالة",
+  "All Statuses": "كل الحالات",
+  "To": "إلى",
+  "All Destinations": "كل الوجهات",
+  "From": "من",
+  "All Sources": "كل المصادر",
+  "Scheduled Date": "التاريخ المجدول",
+  "Today": "اليوم",
+  "Source Document": "المستند المصدر",
+  "Operation": "عملية",
+  "No receipts found": "لا توجد استلامات",
+  "Try adjusting your search criteria": "جرّب تعديل معايير البحث",
+  "Draft": "مسودة",
+  "Ready": "جاهز",
+  "Done": "منجز",
+  "Cancelled": "ملغاة",
+  "Section Overview": "نظرة عامة على الأقسام",
+  "Add Request": "إضافة طلب",
+  "Edit Section": "تعديل القسم",
+  "Delete Section": "حذف القسم",
+  "Warehouse":"مخزن",
+  "Section Usage": "نسبة استخدام القسم",
+  "Location Used": "مستخدم",
+  "Total Shelves": "إجمالي الرفوف",
+  "Empty Shelves": "رفوف فارغة",
+  "Full Shelves": "رفوف ممتلئة",
+  "Newly Added": "أضيف حديثًا",
+
+  "Inventory Overview": "نظرة عامة على المخزون",
+  "Orders Received": "الطلبات المستلمة",
+  "Orders Shipped": "الطلبات المشحونة",
+  "Orders Returned": "الطلبات المُرتجعة",
+  "Orders Canceled": "الطلبات الملغاة",
+
+  "Product name": "اسم المنتج",
+  "In stock": "متوفر",
+  "Price": "السعر",
+  "No products in this section": "لا توجد منتجات في هذا القسم",
+
+  "Rack {{id}}": "الرف {{id}}",
+  "Inventory Details": "تفاصيل المخزون",
+  "Capacity": "السعة",
+  "Filled": "ممتلئ",
+  "No items in this rack": "لا توجد عناصر في هذا الرف",
+  "Total Items in Rack": "إجمالي العناصر في الرف",
+
+  "Critical": "حرج",
+  "Moderate": "متوسط",
+  "Good": "جيد"
+  ,"Transfer Deliveries": "تحويلات التسليم"
+  ,"Manage and track outbound transfer deliveries": "إدارة وتتبع تحويلات التسليم الصادرة"
+  ,"New Delivery": "تسليم جديد"
+  ,"Total Deliveries": "إجمالي التسليمات"
+  ,"Draft Deliveries": "تسليمات مسودة"
+  ,"Search deliveries...": "ابحث في التسليمات..."
+  ,"Customer": "العميل"
+  ,"No deliveries found": "لا توجد تسليمات"
+  ,"Try adjusting your search criteria or create a new delivery": "جرّب تعديل معايير البحث أو أنشئ تسليمًا جديدًا"
+
+  ,"Internal Transfers": "تحويلات داخلية"
+  ,"Manage internal warehouse transfers and movements": "إدارة التحويلات والحركات الداخلية في المستودع"
+  ,"New Transfer": "تحويل جديد"
+  ,"Total Transfers": "إجمالي التحويلات"
+  ,"Draft Transfers": "تحويلات مسودة"
+  ,"Search transfers...": "ابحث في التحويلات..."
+  ,"No transfers found": "لا توجد تحويلات"
+
+  ,"Waiting": "بانتظار",
+  "Manufacturing Orders": "أوامر التصنيع",
+  "Manage production orders and manufacturing processes": "إدارة أوامر الإنتاج وعمليات التصنيع",
+  "New Order": "أمر جديد",
+  "Total Orders": "إجمالي الطلبات",
+  "Draft Orders": "أوامر مسودة",
+  "In Progress": "قيد التنفيذ",
+  "Completed": "مكتملة",
+  "Search orders...": "ابحث في الأوامر...",
+  "All Status": "كل الحالات",
+  "Product": "المنتج",
+  "All Products": "كل المنتجات",
+  "Mens Products": "منتجات رجالية",
+  "Electronics": "إلكترونيات",
+  "Luggage": "حقائب",
+  "Responsible": "المسؤول",
+  "All Responsible": "كل المسؤولين",
+  "Quantity": "الكمية",
+  "Scheduled Date": "التاريخ المجدول",
+  "Source": "المصدر",
+  "Next Activity": "النشاط التالي",
+  "Component": "مكوّن",
+  "Components": "مكوّنات",
+  "No manufacturing orders found": "لا توجد أوامر تصنيع",
+  "Try adjusting your search criteria": "جرّب تعديل معايير البحث",
+  "Manufacturing Order Details": "تفاصيل أمر التصنيع",
+  "Edit Order": "تعديل الأمر",
+  "Order Information": "معلومات الأمر",
+  "Bill of Material": "قائمة المواد",
+  "To Consume": "للاستهلاك",
+  "UoM": "وحدة القياس",
+  "Today": "اليوم",
+
+  "Batch Transfers": "تحويلات الدُفعات",
+  "Manage wave, batch, and cluster transfer operations": "إدارة عمليات الالتقاط الموجي والدُفعات والتجميع",
+  "New Batch": "دفعة جديدة",
+  "Total Batches": "إجمالي الدُفعات",
+  "Draft Batches": "دُفعات مسودة",
+  "Search batches...": "ابحث في الدُفعات...",
+  "All Statuses": "كل الحالات",
+  "Dock Location": "موقع الرصيف",
+  "All Docks": "كل الأرصفة",
+  "Vehicle": "المركبة",
+  "Units":"الوحدات",
+  "Transfer": "تحويل",
+  "Transfers": "تحويلات",
+  "No batch transfers found": "لا توجد تحويلات دُفعات",
+  "Batch Transfer Details": "تفاصيل تحويل الدُفعات",
+  "Edit Batch": "تعديل الدفعة",
+  "Batch Information": "معلومات الدفعة",
+  "Description": "الوصف",
+  "Operation Type": "نوع العملية",
+  "Transfers ({{count}})": "التحويلات ({{count}})",
+  "Reference": "المرجع",
+  "To": "إلى",
+  "Contact": "جهة الاتصال",
+  "Source Doc": "المستند المصدر"
+  ,"Transfer Dropships": "تحويلات الشحن المباشر"
+  ,"Manage dropship operations and vendor-to-customer deliveries": "إدارة عمليات الشحن المباشر وتسليمات المورّد إلى العميل"
+  ,"New Dropship": "شحن مباشر جديد"
+  ,"Total Dropships": "إجمالي الشحن المباشر"
+  ,"Draft Dropships": "مسودة شحنات مباشرة"
+  ,"Search dropships...": "ابحث في الشحن المباشر..."
+  ,"Vendor": "المورّد"
+  ,"No dropships found": "لا توجد عمليات شحن مباشر"
+  ,"Try adjusting your search criteria or create a new dropship": "جرّب تعديل معايير البحث أو أنشئ شحنًا مباشرًا جديدًا"
+  ,"Wave Transfers": "تحويلات الالتقاط الموجي"
+  ,"Launch picking orders by aisle or area and regroup at packing zone": "إطلاق أوامر الالتقاط حسب الممر أو المنطقة وإعادة التجميع في منطقة التغليف"
+  ,"Prepare Wave": "تحضير الموجة"
+  ,"New Wave": "موجة جديدة"
+  ,"Total Waves": "إجمالي الموجات"
+  ,"Draft Waves": "موجات مسودة"
+  ,"Search waves...": "ابحث في الموجات..."
+  ,"No wave transfers found": "لا توجد تحويلات موجية"
+  ,"Wave Transfer Details": "تفاصيل تحويل الموجة"
+  ,"Edit Wave": "تعديل الموجة"
+  ,"Wave Information": "معلومات الموجة"
+  ,"Physical Inventory": "الجرد الفعلي"
+  ,"Track and manage your inventory counts": "تتبّع وأدر عدّ المخزون"
+  ,"Total Items": "إجمالي العناصر"
+  ,"Total Value": "إجمالي القيمة"
+  ,"Search products, lot numbers...": "ابحث عن المنتجات وأرقام الدُفعات..."
+  ,"Lot/Serial": "دفعة/تسلسلي"
+  ,"On Hand": "المتوفر"
+  ,"Counted": "المعدود"
+  ,"Difference": "الفرق"
+  ,"Scheduled": "مجدول"
+  ,"User": "المستخدم"
+  ,"Loading inventory data...": "جاري تحميل بيانات المخزون..."
+  ,"No inventory data found": "لا توجد بيانات مخزون"
+  ,"No products available for inventory tracking.": "لا توجد منتجات متاحة لتتبّع المخزون."
+  ,"Refresh Data": "تحديث البيانات"
+  ,"Rows per page:": "عدد الصفوف لكل صفحة:"
+  ,"Page": "صفحة"
+  ,"of": "من"
+  ,"Surplus": "فائض"
+  ,"Shortage": "عجز"
+  ,"Exact Match": "مطابقة تامة"
+  ,"Location": "الموقع"
+  ,"All Locations": "كل المواقع"
+  ,"All Owners": "كل المُلّاك"
+  ,"Refresh": "تحديث"
+
+  ,"Scrap Orders": "طلبات متلفة"
+  ,"Manage scrapped products and track inventory removals": "إدارة المنتجات التالفة وتتبع الإخراج من المخزون"
+  ,"New Scrap Order": "أمر متلف جديد"
+  ,"Total Scrap Orders": "إجمالي طلبات متلفة"
+  ,"Draft Orders": "أوامر مسودة"
+  ,"Completed Today": "مكتمل اليوم"
+  ,"Items Scrapped": "العناصر المتلفة"
+  ,"Search scraps...": "ابحث في طلبات المتلف..."
+  ,"Scrap Reasons Distribution": "توزيع أسباب المتلف"
+  ,"Source Location": "الموقع المصدر"
+  ,"Scrap Location": "موقع الطلات المتلفة"
+  ,"No scrap orders found": "لا توجد طلبات متلفة"
+  ,"Scrap Order Details": "تفاصيل طلبات متلفة"
+  ,"Edit Scrap Order": "تعديل الطلبات المتلفة"
+  ,"Scrap Information": "معلومات الطلبات المتلفة"
+  ,"Product Type": "نوع المنتج"
+  ,"All Products": "كل المنتجات"
+  ,"Clothing": "ملابس"
+  ,"Furniture": "أثاث"
+  ,"Electronics": "إلكترونيات"
+  ,"Quantity": "الكمية"
+  ,"Date": "التاريخ"
+
+  ,"Landing Costs": "تكاليف الشحن"
+  ,"Manage additional costs for receipts and transfers": "إدارة التكاليف الإضافية للاستلامات والتحويلات"
+  ,"New Landing Cost": "تكلفة شحن جديدة"
+  ,"Total Landing Costs": "إجمالي تكاليف الشحن"
+  ,"Draft Costs": "تكاليف مسودة"
+  ,"Allocated": "مُخصّصة"
+  ,"Allocation": "التخصيص"
+  ,"Not Allocated": "غير مُخصّصة"
+  ,"Search landing costs...": "ابحث في تكاليف الشحن..."
+  ,"No landing costs found": "لا توجد تكاليف شحن"
+  ,"Landing Cost Details": "تفاصيل تكلفة الشحن"
+  ,"Edit Landing Cost": "تعديل تكلفة الشحن"
+  ,"Landing Cost Information": "معلومات تكلفة الشحن"
+  ,"Cost": "التكلفة"
+  ,"Cost Type": "نوع التكلفة",
+
+  "Product Catalog": "كتالوج المنتجات",
+  "Manage your product inventory and details": "إدارة مخزون المنتجات والتفاصيل",
+  "Total Products": "إجمالي المنتجات",
+  "In Stock": "متوفر",
+  "For Sale": "للبيع",
+  "Search products...": "ابحث في المنتجات...",
+  "Category": "الفئة",
+  "All Categories": "كل الفئات",
+  "Price Range": "نطاق السعر",
+  "All Prices": "كل الأسعار",
+  "No code": "لا رمز",
+  "No products found": "لا توجد منتجات",
+  "Try adjusting your search or filters": "جرّب تعديل البحث أو عوامل التصفية",
+
+  "Return": "عودة",
+  "Product Details": "تفاصيل المنتج",
+  "General Information": "معلومات عامة",
+  "Attributes & Variants": "السمات والمتغيرات",
+  "Sales": "المبيعات",
+  "Purchase": "المشتريات",
+  "No Image": "لا توجد صورة",
+  "Product Type": "نوع المنتج",
+  "Select product type": "اختر نوع المنتج",
+  "Invoicing Policy": "سياسة الفوترة",
+  "Enter invoicing policy": "أدخل سياسة الفوترة",
+  "Track Inventory": "تتبع المخزون",
+  "Create Repair": "إنشاء إصلاح",
+  "Sales Price": "سعر البيع",
+  "Sales Tax": "ضريبة المبيعات",
+  "Select tax rate": "اختر نسبة الضريبة",
+  "Purchase Tax": "ضريبة الشراء",
+  "Item ID": "معرّف العنصر",
+  "Barcode": "الباركود",
+  "Enter barcode": "أدخل الباركود",
+  "Cancel": "إلغاء",
+  "Save Changes": "حفظ التغييرات",
+  "Add Attribute": "إضافة سمة",
+  "Enter attribute name": "أدخل اسم السمة",
+  "Upsell & Cross-Sell": "البيع الإضافي والمتقاطع",
+  "Optional Products": "منتجات اختيارية",
+  "Accessory Products": "منتجات ملحقة",
+  "Alternative Products": "منتجات بديلة",
+  "Ecommerce Shop": "متجر إلكتروني",
+  "Tags": "الوسوم",
+  "Select tags": "اختر الوسوم",
+  "Website": "الموقع الإلكتروني",
+  "Select website": "اختر الموقع",
+  "Categories": "الفئات",
+  "Select categories": "اختر الفئات",
+  "Out of Stock": "غير متوفر",
+  "Out of Stock Message": "رسالة نفاد المخزون",
+  "Enter out of stock message": "أدخل رسالة نفاد المخزون",
+  "Is Published": "منشور",
+  "Show Available Quantity": "عرض الكمية المتاحة",
+  "Ecommerce Media": "وسائط المتجر",
+  "Add Media": "إضافة وسائط",
+  "Quotation Description": "وصف عرض السعر",
+  "Enter quotation description": "أدخل وصف عرض السعر",
+  "Ecommerce Description": "وصف المتجر الإلكتروني",
+  "Enter ecommerce description": "أدخل وصف المتجر الإلكتروني",
+  "Warning Message": "رسالة تحذير",
+  "Select warning message": "اختر رسالة التحذير",
+  "Add Record": "إضافة سجل",
+  "Vendor": "المورّد",
+  "Enter vendor": "أدخل المورّد",
+  "Currency": "العملة",
+  "Select currency": "اختر العملة",
+  "Delivery": "التسليم",
+  "Manage product variants, pricing, and inventory levels": "إدارة متغيرات المنتجات والتسعير ومستويات المخزون",
+  "New Product Variant": "متغير منتج جديد",
+  "Total Variants": "إجمالي المتغيرات",
+  "Inventory Value": "قيمة المخزون",
+  "Avg Sales Price": "متوسط سعر البيع",
+  "Low Stock Items": "عناصر منخفضة المخزون",
+  "Average Price by Category": "متوسط السعر حسب الفئة",
+  "Inventory Status": "حالة المخزون",
+  "Price Range Distribution": "توزيع نطاق الأسعار",
+  "Search by name, reference, or category...": "ابحث بالاسم أو المرجع أو الفئة...",
+  "Margin:": "الهامش:",
+  "Forecasted": "متوقع",
+  "Unit": "الوحدة",
+
+  "Lots / Serial Numbers": "الدفعات / الأرقام التسلسلية",
+  "Track and manage product lots and serial numbers": "تتبّع وأدر دفعات المنتجات والأرقام التسلسلية",
+  "Add Lot/Serial Number": "إضافة دفعة/رقم تسلسلي",
+  "Total Lots": "إجمالي الدُفعات",
+  "Tracked items": "عناصر متتبّعة",
+  "Active Lots": "دفعات نشطة",
+  "Currently in stock": "متوفر حاليًا",
+  "Expiring Soon": "ستنتهي قريبًا",
+  "Within 90 days": "خلال 90 يومًا",
+  "Lots by Category": "الدُفعات حسب الفئة",
+  "Status Distribution": "توزيع الحالة",
+  "Value Distribution": "توزيع القيمة",
+  "Search by lot number, product, reference, or location...": "ابحث برقم الدفعة أو المنتج أو المرجع أو الموقع...",
+  "On Hand": "المتوفر",
+  "Created:": "تاريخ الإنشاء:",
+  "Expires:": "ينتهي في:",
+  "Avg Cost": "متوسط التكلفة",
+  "View Details": "عرض التفاصيل",
+  "No lots found": "لا توجد دفعات",
+  "Lot/Serial Number": "رقم الدفعة/التسلسلي",
+  "Internal Reference": "المرجع الداخلي",
+  "On Hand Quantity": "الكمية المتوفرة",
+  "Average Cost": "متوسط التكلفة",
+  "Created On": "تاريخ الإنشاء",
+  "Expiry Date": "تاريخ الانتهاء",
+  "Traceability History": "سجل التتبّع",
+  "Qty:": "الكمية:",
+  "Edit Details": "تعديل التفاصيل",
+  "View Full Traceability": "عرض سجل التتبّع الكامل"
+  ,"Packages": "الطرود"
+  ,"Manage and track your package references": "إدارة وتتبع مراجع الطرود"
+  ,"New Package": "طرد جديد"
+  ,"Total Packages": "إجمالي الطرود"
+  ,"Active package references": "مراجع طرود نشطة"
+  ,"Packed Packages": "طرود مُعبّأة"
+  ,"Ready for shipment": "جاهز للشحن"
+  ,"Total Weight": "الوزن الإجمالي"
+  ,"kg across all packages": "كجم عبر جميع الطرود"
+  ,"Currently being shipped": "يتم شحنها حاليًا"
+  ,"Packages by Type": "الطرود حسب النوع"
+  ,"Search packages by reference, type, location, or owner...": "ابحث عن الطرود بالمرجع أو النوع أو الموقع أو المالك..."
+  ,"Filters": "عوامل التصفية"
+  ,"In internal locations": "في المواقع الداخلية"
+  ,"Add Custom Filter": "إضافة عامل تصفية مخصص"
+  ,"Group By": "تجميع حسب"
+  ,"Package Type": "نوع الطرد"
+  ,"Add Custom Group": "إضافة مجموعة مخصصة"
+  ,"Favorites": "المفضّلة"
+  ,"Save current search": "حفظ البحث الحالي"
+  ,"Contents:": "المحتويات:"
+  ,"more items": "عناصر أخرى"
+  ,"Owner:": "المالك:"
+  ,"No packages found": "لا توجد طرود"
+  ,"No packages match your search criteria. Try adjusting your filters or search terms.": "لا توجد طرود مطابقة لمعايير البحث. جرّب تعديل عوامل التصفية أو كلمات البحث."
+  ,"Package Details": "تفاصيل الطرد"
+  ,"Package Transfers": "تحويلات الطرود"
+  ,"Unpack": "تفريغ"
+  ,"Package Reference": "مرجع الطرد"
+  ,"Pack Date": "تاريخ التغليف"
+  ,"Shipping Weight": "وزن الشحن"
+  ,"Package Contents": "محتويات الطرد"
+  ,"kg": "كجم"
+  ,"computed:": "محسوب:"
+  ,"Packed": "مُعبّأ"
+  ,"Stocks": "المخزون"
+  ,"Monitor and manage your product inventory": "راقب وأدر مخزون منتجاتك"
+  ,"Search products...": "ابحث عن المنتجات..."
+  ,"Filter": "تصفية"
+  ,"Categories": "الفئات"
+  ,"Select categories to filter products": "اختر الفئات لتصفية المنتجات"
+  ,"Clear all": "مسح الكل"
+  ,"Add Product": "إضافة منتج"
+  ,"Total Value": "إجمالي القيمة"
+  ,"from last quarter": "عن الربع الماضي"
+  ,"Total Units": "إجمالي الوحدات"
+  ,"Across all categories": "عبر جميع الفئات"
+  ,"Low Stock Items": "عناصر منخفضة المخزون"
+  ,"vs last month": "مقارنة بالشهر الماضي"
+  ,"Low Stock": "مخزون منخفض"
+  ,"Unit Cost": "تكلفة الوحدة"
+  ,"On Hand": "المتوفر"
+  ,"Available": "المتوفر"
+  ,"Incoming": "الوارد"
+  ,"Outgoing": "الصادر"
+  ,"History": "السجل"
+  ,"Replenish": "تجديد"
+  ,"Showing {{count}} products": "عرض {{count}} منتج"
+  ,"Total inventory value:": "إجمالي قيمة المخزون:"
+  ,"Export Report": "تصدير التقرير"
+  ,"Warehouse Locations": "مواقع المستودعات"
+  ,"Monitor inventory across all warehouse locations": "راقب المخزون عبر جميع مواقع المستودعات"
+  ,"Total Locations": "إجمالي المواقع"
+  ,"Total Items": "إجمالي العناصر"
+  ,"Avg Capacity": "متوسط السعة"
+  ,"Warehouse Map": "خريطة المستودعات"
+  ,"Warehouse Details": "تفاصيل المستودعات"
+  ,"Items": "العناصر"
+  ,"Value": "القيمة"
+  ,"Capacity": "السعة"
+  ,"Items by Location": "العناصر حسب الموقع"
+  ,"Products": "المنتجات"
+  ,"at": "في"
+  ,"Show All Locations": "عرض جميع المواقع"
+  ,"Reserved": "محجوز"
+  ,"No products found matching your search.": "لا توجد منتجات مطابقة لبحثك."
+  ,"Set your Google Maps API key in VITE_GOOGLE_MAPS_API_KEY to view the map.": "قم بتعيين مفتاح Google Maps في VITE_GOOGLE_MAPS_API_KEY لعرض الخريطة."
+  ,"Inventory Moves Analysis": "تحليل حركات المخزون"
+  ,"Track and analyze all inventory movements across warehouse locations": "تتبع وتحليل جميع حركات المخزون عبر مواقع المستودعات"
+  ,"Total Moves": "إجمالي الحركات"
+  ,"Completed": "مكتملة"
+  ,"In Progress": "قيد التنفيذ"
+  ,"Total Quantity": "إجمالي الكمية"
+  ,"Moves by Type": "الحركات حسب النوع"
+  ,"Moves by Status": "توزيع الحركات حسب الحالة"
+  ,"Moves Over Time": "الحركات عبر الزمن"
+  ,"Search moves by reference, product, location, or type...": "ابحث عن الحركات بالمرجع أو المنتج أو الموقع أو النوع..."
+  ,"From": "من"
+  ,"To": "إلى"
+  ,"Quantity": "الكمية"
+  ,"units": "وحدات"
+  ,"Date": "التاريخ"
+  ,"Responsible": "المسؤول"
+  ,"Status": "الحالة"
+  ,"Priority": "الأولوية"
+  ,"Movement Flow": "تدفق الحركة"
+  ,"From Location": "من الموقع"
+  ,"To Location": "إلى الموقع"
+  ,"Move Type": "نوع الحركة"
+  ,"Notes": "ملاحظات"
+  ,"Warehouse Moves History": "سجل حركات المستودع"
+  ,"Real-time inventory movement tracking and analytics": "تتبع وتحليلات لحظية لحركات المخزون"
+  ,"from last month": "مقارنة بالشهر الماضي"
+  ,"Avg per Move": "متوسط لكل حركة"
+  ,"Success Rate": "معدل النجاح"
+  ,"all completed": "جميعها مكتملة"
+  ,"Movement Timeline": "الخط الزمني للحركات"
+  ,"Category Distribution": "توزيع الفئات"
+  ,"Weekly Movements": "الحركات الأسبوعية"
+  ,"Recent Movements": "التحركات الأخيرة"
+  ,"Reference": "المرجع"
+  ,"Product": "المنتج"
+  ,"Inventory Valuation": "تقييم المخزون"
+  ,"Comprehensive overview of your warehouse inventory value and analytics": "نظرة شاملة على قيمة مخزون المستودع والتحليلات"
+  ,"Total Inventory Value": "إجمالي قيمة المخزون"
+  ,"categories": "فئات"
+  ,"Average Value": "متوسط القيمة"
+  ,"per item": "لكل عنصر"
+  ,"Highest Value Item": "أعلى عنصر قيمة"
+  ,"N/A": "غير متوفر"
+  ,"No data": "لا توجد بيانات"
+  ,"Valuation Timeline": "الخط الزمني للتقييم"
+  ,"Weekly Valuation": "تقييم أسبوعي"
+  ,"Unit Value": "قيمة الوحدة"
+  ,"Try adjusting your search or filter criteria": "جرّب تعديل البحث أو معايير التصفية"
+  ,"Warehouses": "المستودعات"
+  ,"Manage your warehouse locations and facilities": "إدارة مواقع المستودعات والمرافق"
+  ,"Add Warehouse": "إضافة مستودع"
+  ,"Total Warehouses": "إجمالي المستودعات"
+  ,"Total Capacity": "إجمالي السعة"
+  ,"Avg Utilization": "متوسط الاستغلال"
+  ,"Search warehouses by name, code, or city...": "ابحث عن المستودعات بالاسم أو الكود أو المدينة..."
+  ,"Capacity Utilization": "استغلال السعة"
+  ,"Manager:": "المدير:"
+  ,"View Details": "عرض التفاصيل"
+  ,"Edit": "تعديل"
+  ,"No warehouses found": "لا توجد مستودعات"
+  ,"Try adjusting your search criteria": "جرّب تعديل معايير البحث"
+  ,"Add New Warehouse": "إضافة مستودع جديد"
+  ,"This feature is coming soon. You'll be able to add new warehouse locations with all the necessary details.": "هذه الميزة قادمة قريبًا. ستتمكن من إضافة مواقع مستودعات جديدة بكل التفاصيل اللازمة."
+  ,"Close": "إغلاق"
+  ,"Operation Types": "أنواع العمليات"
+  ,"Manage and configure your warehouse operation types": "إدارة وتهيئة أنواع عمليات المستودع"
+  ,"Add Operation Type": "إضافة نوع عملية"
+  ,"Total Operations": "إجمالي العمليات"
+  ,"Active Types": "أنواع مفعّلة"
+  ,"Most Used": "الأكثر استخدامًا"
+  ,"operations": "عمليات"
+  ,"Search operation types...": "ابحث عن أنواع العمليات..."
+  ,"Warehouse": "المستودع"
+  ,"Prefix": "البادئة"
+  ,"Operations": "العمليات"
+  ,"Last Used": "آخر استخدام"
+  ,"Configure operation type settings": "تهيئة إعدادات نوع العملية"
+  ,"General": "عام"
+  ,"Hardware": "الأجهزة"
+  ,"Basic Information": "معلومات أساسية"
+  ,"Type of Operation": "نوع العملية"
+  ,"Sequence Prefix": "بادئة التسلسل"
+  ,"Returns Type": "نوع المرتجعات"
+  ,"Status": "الحالة"
+  ,"Owner": "المالك"
+  ,"All Statuses": "كل الحالات"
+  ,"All Types": "كل الأنواع"
+  ,"All Owners": "كل المُلّاك"
+  ,"Standard Box": "صندوق قياسي"
+  ,"Small Box": "صندوق صغير"
+  ,"Large Box": "صندوق كبير"
+  ,"Pallet": "طبالي"
+  ,"Main Warehouse": "المستودع الرئيسي"
+  ,"Secondary Warehouse": "المستودع الثانوي"
+  ,"Search packages...": "ابحث عن الطرود..."
+  ,"Category": "الفئة"
+  ,"All Categories": "كل الفئات"
+  ,"Stock Level": "مستوى المخزون"
+  ,"All Levels": "كل المستويات"
+  ,"Low Stock (< 100)": "مخزون منخفض (< 100)"
+  ,"Medium Stock (100-499)": "مخزون متوسط (100-499)"
+  ,"High Stock (500+)": "مخزون مرتفع (500+)"
+  ,"Location": "الموقع"
+  ,"All Locations": "كل المواقع"
+  ,"Warehouse A": "مستودع A"
+  ,"Warehouse B": "مستودع B"
+  ,"Retail Store": "متجر تجزئة",
+  "Routes Management": "إدارة المسارات",
+  "Configure and manage warehouse routing rules": "تهيئة وإدارة قواعد مسارات المستودع",
+  "Add Route": "إضافة مسار",
+  "Inactive Routes": "المسارات غير النشطة",
+  "Search routes...": "ابحث في المسارات...",
+  "Active": "نشط",
+  "Inactive": "غير نشط",
+  "Rule": "قاعدة",
+  "Click to edit →": "انقر للتحرير →",
+  "Applicable On": "قابلية التطبيق",
+  "Select the places where this route can be selected": "اختر الأماكن التي يمكن اختيار هذا المسار فيها",
+  "Destination Location": "الموقع الوجهة",
+  "Warehouse Rules": "قواعد المستودع",
+  "Add Rule": "إضافة قاعدة",
+  "Most Used Action": "الإجراء الأكثر استخدامًا",
+  "Avg Lead Time": "متوسط زمن التنفيذ",
+  "days": "أيام",
+  "Route:": "المسار:",
+  "Supply Method:": "طريقة التوريد:",
+  "Lead Time:": "زمن التنفيذ:",
+  "New Rule": "قاعدة جديدة",
+  "Edit Rule": "تعديل القاعدة",
+  "Name": "الاسم",
+  "Supply Method": "طريقة التوريد",
+  "Applicability": "قابلية التطبيق",
+  "Route": "المسار",
+  "Propagation": "الانتشار",
+  "Cancel Next Move": "إلغاء الحركة التالية",
+  "Propagation of carrier": "انتشار شركة الشحن",
+  "Options": "الخيارات",
+  "Allow New Product": "السماح بمنتج جديد",
+  "Allow mixed products": "السماح بمنتجات مختلطة",
+  "Allow same products only": "السماح بمنتجات متشابهة فقط",
+  "No new products allowed": "عدم السماح بمنتجات جديدة",
+  "Max Weight (kg)": "الحد الأقصى للوزن (كجم)",
+  "Capacity by Package": "السعة حسب الطرد",
+  "Capacity by Product": "السعة حسب المنتج",
+  "Package Type": "نوع الطرد",
+  "Select type": "اختر النوع",
+  "Create Category": "إنشاء فئة",
+  "Storage Categories": "فئات التخزين",
+  "Add Storage Category": "إضافة فئة تخزين",
+  "Total Categories": "إجمالي الفئات",
+  "Avg Utilization": "متوسط الاستغلال",
+  "Highest Capacity": "أعلى سعة",
+  "Max Weight": "الحد الأقصى للوزن",
+  "Utilization": "الاستغلال",
+  "Package Types": "أنواع الطرود",
+  "Edit Storage Category": "تعديل فئة التخزين",
+  "Manage product packaging configurations and units": "إدارة إعدادات تغليف المنتجات والوحدات",
+  "Add Product Packaging": "إضافة تغليف منتج",
+  "Total Packagings": "إجمالي التغليفات",
+  "Products with Packaging": "منتجات لها تغليف",
+  "Sales Enabled": "مفعّل للبيع",
+  "Purchase Enabled": "مفعّل للشراء",
+  "Search packagings, products, or types...": "ابحث عن التغليفات أو المنتجات أو الأنواع...",
+  "Contained Quantity": "الكمية المحتواة",
+  "Packaging Name": "اسم التغليف",
+  "e.g. Box of 12": "مثال: صندوق من 12",
+  "Select product": "اختر المنتج",
+  "Select package type": "اختر نوع التغليف",
+  "Main Company": "الشركة الرئيسية",
+  "Create": "إنشاء",
+  "Manage automatic product routing to storage locations": "إدارة التوجيه التلقائي للمنتجات إلى مواقع التخزين",
+  "Add Putaway Rule": "إضافة قاعدة إيداع",
+  "Total Rules": "إجمالي القواعد",
+  "Active Rules": "قواعد مفعّلة",
+  "Destinations": "الوجهات",
+  "Search putaway rules...": "ابحث في قواعد الإيداع...",
+  "Storage": "التخزين",
+  "Sublocation": "موقع فرعي",
+  "Product Categories": "فئات المنتجات",
+  "Add Category": "إضافة فئة",
+  "Parent Categories": "الفئات الرئيسية",
+  "Child Categories": "الفئات الفرعية",
+  "With Routes": "بها مسارات",
+  "Parent:": "الأصل:",
+  "Hierarchy Level": "مستوى التسلسل",
+  "Level": "المستوى",
+  "Reserve Packagings": "حجز التغليفات",
+  "Full Only": "كامل فقط",
+  "Partial": "جزئي",
+  "Category Name": "اسم الفئة",
+  "e.g. Lamps": "مثال: مصابيح",
+  "Parent Category": "الفئة الأصل",
+  "Select parent category": "اختر الفئة الأصل",
+  "None": "لا شيء",
+  "LOGISTICS": "اللوجستيات",
+  "Enter routes": "أدخل المسارات",
+  "Force Removal Strategy": "استراتيجية الإزالة القسرية",
+  "Select strategy": "اختر الاستراتيجية",
+  "New Storage Category": "فئة تخزين جديدة",
+  "Storage Category": "فئة التخزين",
+  "Enter category name": "أدخل اسم الفئة",
+  "Value Range": "نطاق القيمة",
+  "All Values": "كل القيم",
+  "Low (< 50K)": "منخفض (< 50 ألف)",
+  "Medium (50K-150K)": "متوسط (50 ألف - 150 ألف)",
+  "High (> 150K)": "مرتفع (> 150 ألف)",
+  "Manage packaging options and carrier integrations": "إدارة خيارات التغليف وتكامل شركات الشحن",
+  "Add Package Type": "إضافة نوع طرد",
+  "Total Package Types": "إجمالي أنواع الطرود",
+  "Carriers Integrated": "شركات شحن مدمجة",
+  "Average Weight": "متوسط الوزن",
+  "Search categories...": "ابحث في الفئات...",
+  "Unit of Measure": "وحدة القياس",
+  "Type": "النوع",
+  "Ratio": "النسبة",
+  "Active": "نشط",
+  "Rounding": "التقريب",
+  "Actions": "الإجراءات",
+  "Unit name": "اسم الوحدة",
+  "Reference Unit": "الوحدة المرجعية",
+  "Bigger than reference": "أكبر من المرجعية",
+  "Smaller than reference": "أصغر من المرجعية",
+  "Add Unit of Measure Category": "إضافة فئة وحدة قياس",
+  "Edit Unit of Measure Category": "تعديل فئة وحدة قياس",
+  "Unit of Measure Category": "فئة وحدة القياس",
+  "e.g., Weight, Length, Volume": "مثال: وزن، طول، حجم",
+  "Manage shipping methods and pricing rules": "إدارة طرق الشحن وقواعد التسعير",
+  "Search delivery methods...": "ابحث في طرق التسليم...",
+  "Total Methods": "إجمالي الطرق",
+  "Published": "منشور",
+  "Unpublished": "غير منشور",
+  "Average Price": "متوسط السعر",
+  "Most Used Provider": "أكثر مزوّد استخدامًا",
+  "Available Countries": "الدول المتاحة",
+  "Fixed Price": "سعر ثابت",
+  "No limit": "بدون حد",
+  "Edit Delivery Method": "تعديل طريقة التسليم",
+  "Add Delivery Method": "إضافة طريقة تسليم",
+  "Configure shipping method and pricing rules": "تهيئة طريقة الشحن وقواعد التسعير",
+  "Delivery Method Name *": "اسم طريقة التسليم *",
+  "e.g. UPS Express": "مثال: UPS Express",
+  "All websites": "كل المواقع",
+  "Main Store": "المتجر الرئيسي",
+  "International Store": "المتجر الدولي",
+  "Provider": "المزوّد",
+  "Delivery Product": "منتج التسليم",
+  "Select delivery product": "اختر منتج التسليم",
+  "Tracking Link": "رابط التتبع",
+  "Set a fixed price for this delivery method. If you specify a free threshold, shipping will be free when the order amount exceeds that value.": "عيّن سعرًا ثابتًا لطريقة التسليم هذه. إذا حدّدت حدًا مجانيًا، فسيكون الشحن مجانيًا عندما يتجاوز مبلغ الطلب تلك القيمة.",
+  "Destination": "الوجهة",
+  "Countries": "الدول",
+  "Select countries": "اختر الدول",
+  "States": "الولايات",
+  "Select states": "اختر الولايات",
+  "Zip Prefixes": "بدايات الرموز البريدية",
+  "e.g. 90, 91, 92": "مثال: 90، 91، 92",
+  "Content": "المحتوى",
+  "Max Volume (m³)": "الحد الأقصى للحجم (م³)",
+  "Must Have Tags": "وسوم مطلوبة",
+  "Excluded Tags": "وسوم مستبعدة",
+  "Configure availability rules to make this shipping method available according to the order content or destination.": "قم بتهيئة قواعد الإتاحة لجعل طريقة الشحن متاحة وفقًا لمحتوى الطلب أو الوجهة.",
+  "Add a description for this delivery method...": "أضف وصفًا لطريقة التسليم هذه...",
+  "Create Method": "إنشاء الطريقة"
+}
